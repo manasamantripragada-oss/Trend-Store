@@ -1,9 +1,7 @@
-function App() {
+export default function App() {
   return (
-    <div style={{ padding: '40px', fontSize: '24px' }}>
-      🛍️ Welcome to Trend Store
+    <div style={{ padding: 40 }}>
+      <h1>Trend Store Loaded ✅</h1>
     </div>
   )
 }
-
-export default App
